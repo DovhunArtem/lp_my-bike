@@ -2,7 +2,7 @@
 
 Landing page for a bike store. Presents the main products and services of the store, compares the most popular models of bikes, and provides a form for ordering a bike.
 
-# [Demo](https://gretoq.github.io/my-bike-lp/)
+# [Demo](https://dovhunartem.github.io/lp_my-bike/)
 
 # Technologies used
 
